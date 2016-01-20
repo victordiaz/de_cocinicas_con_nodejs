@@ -1,0 +1,17 @@
+{
+  "name": "telnet",
+  "description": "00_template",
+  "keywords": [
+    "template"
+  ],
+  "version": "0.0.1",
+  "author": "you!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/victordiaz/de_cocinicas_con_nodejs"
+  },
+  "main": "main.js",
+  "devDependencies": {
+    "mocha": "~1.18.2"
+  }
+}
