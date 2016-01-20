@@ -3,12 +3,13 @@
 Cada ejemplo es sencillo de ejecutar
 
 Entra a la carpeta y ejecuta esto para instalar las dependencias
+
 `
 npm install
-node main.js
 `
 
 y para ejecutar el script
+
 `
 node main.js
 `
