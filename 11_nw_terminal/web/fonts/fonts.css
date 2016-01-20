@@ -1,0 +1,237 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-style: normal;
+  src: url('./Open-Sans-300/Open-Sans-300.eot');
+  src: url('./Open-Sans-300/Open-Sans-300.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Light'),
+       local('Open-Sans-300'),
+       url('./Open-Sans-300/Open-Sans-300.woff2') format('woff2'),
+       url('./Open-Sans-300/Open-Sans-300.woff') format('woff'),
+       url('./Open-Sans-300/Open-Sans-300.ttf') format('truetype'),
+       url('./Open-Sans-300/Open-Sans-300.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-style: normal;
+  src: url('./Open-Sans-regular/Open-Sans-regular.eot');
+  src: url('./Open-Sans-regular/Open-Sans-regular.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans'),
+       local('Open-Sans-regular'),
+       url('./Open-Sans-regular/Open-Sans-regular.woff2') format('woff2'),
+       url('./Open-Sans-regular/Open-Sans-regular.woff') format('woff'),
+       url('./Open-Sans-regular/Open-Sans-regular.ttf') format('truetype'),
+       url('./Open-Sans-regular/Open-Sans-regular.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-style: normal;
+  src: url('./Open-Sans-600/Open-Sans-600.eot');
+  src: url('./Open-Sans-600/Open-Sans-600.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Semibold'),
+       local('Open-Sans-600'),
+       url('./Open-Sans-600/Open-Sans-600.woff2') format('woff2'),
+       url('./Open-Sans-600/Open-Sans-600.woff') format('woff'),
+       url('./Open-Sans-600/Open-Sans-600.ttf') format('truetype'),
+       url('./Open-Sans-600/Open-Sans-600.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-style: normal;
+  src: url('./Open-Sans-700/Open-Sans-700.eot');
+  src: url('./Open-Sans-700/Open-Sans-700.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Bold'),
+       local('Open-Sans-700'),
+       url('./Open-Sans-700/Open-Sans-700.woff2') format('woff2'),
+       url('./Open-Sans-700/Open-Sans-700.woff') format('woff'),
+       url('./Open-Sans-700/Open-Sans-700.ttf') format('truetype'),
+       url('./Open-Sans-700/Open-Sans-700.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 800;
+  font-style: normal;
+  src: url('./Open-Sans-800/Open-Sans-800.eot');
+  src: url('./Open-Sans-800/Open-Sans-800.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Extrabold'),
+       local('Open-Sans-800'),
+       url('./Open-Sans-800/Open-Sans-800.woff2') format('woff2'),
+       url('./Open-Sans-800/Open-Sans-800.woff') format('woff'),
+       url('./Open-Sans-800/Open-Sans-800.ttf') format('truetype'),
+       url('./Open-Sans-800/Open-Sans-800.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-style: italic;
+  src: url('./Open-Sans-300italic/Open-Sans-300italic.eot');
+  src: url('./Open-Sans-300italic/Open-Sans-300italic.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Light Italic'),
+       local('Open-Sans-300italic'),
+       url('./Open-Sans-300italic/Open-Sans-300italic.woff2') format('woff2'),
+       url('./Open-Sans-300italic/Open-Sans-300italic.woff') format('woff'),
+       url('./Open-Sans-300italic/Open-Sans-300italic.ttf') format('truetype'),
+       url('./Open-Sans-300italic/Open-Sans-300italic.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-style: italic;
+  src: url('./Open-Sans-italic/Open-Sans-italic.eot');
+  src: url('./Open-Sans-italic/Open-Sans-italic.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Italic'),
+       local('Open-Sans-italic'),
+       url('./Open-Sans-italic/Open-Sans-italic.woff2') format('woff2'),
+       url('./Open-Sans-italic/Open-Sans-italic.woff') format('woff'),
+       url('./Open-Sans-italic/Open-Sans-italic.ttf') format('truetype'),
+       url('./Open-Sans-italic/Open-Sans-italic.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-style: italic;
+  src: url('./Open-Sans-600italic/Open-Sans-600italic.eot');
+  src: url('./Open-Sans-600italic/Open-Sans-600italic.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Semibold Italic'),
+       local('Open-Sans-600italic'),
+       url('./Open-Sans-600italic/Open-Sans-600italic.woff2') format('woff2'),
+       url('./Open-Sans-600italic/Open-Sans-600italic.woff') format('woff'),
+       url('./Open-Sans-600italic/Open-Sans-600italic.ttf') format('truetype'),
+       url('./Open-Sans-600italic/Open-Sans-600italic.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-style: italic;
+  src: url('./Open-Sans-700italic/Open-Sans-700italic.eot');
+  src: url('./Open-Sans-700italic/Open-Sans-700italic.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Bold Italic'),
+       local('Open-Sans-700italic'),
+       url('./Open-Sans-700italic/Open-Sans-700italic.woff2') format('woff2'),
+       url('./Open-Sans-700italic/Open-Sans-700italic.woff') format('woff'),
+       url('./Open-Sans-700italic/Open-Sans-700italic.ttf') format('truetype'),
+       url('./Open-Sans-700italic/Open-Sans-700italic.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 800;
+  font-style: italic;
+  src: url('./Open-Sans-800italic/Open-Sans-800italic.eot');
+  src: url('./Open-Sans-800italic/Open-Sans-800italic.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Extrabold Italic'),
+       local('Open-Sans-800italic'),
+       url('./Open-Sans-800italic/Open-Sans-800italic.woff2') format('woff2'),
+       url('./Open-Sans-800italic/Open-Sans-800italic.woff') format('woff'),
+       url('./Open-Sans-800italic/Open-Sans-800italic.ttf') format('truetype'),
+       url('./Open-Sans-800italic/Open-Sans-800italic.svg#OpenSans') format('svg');
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-weight: 200;
+  font-style: normal;
+  src: url('./Source-Code-Pro-200/Source-Code-Pro-200.eot');
+  src: url('./Source-Code-Pro-200/Source-Code-Pro-200.eot?#iefix') format('embedded-opentype'),
+       local('Source Code Pro ExtraLight'),
+       local('Source-Code-Pro-200'),
+       url('./Source-Code-Pro-200/Source-Code-Pro-200.woff2') format('woff2'),
+       url('./Source-Code-Pro-200/Source-Code-Pro-200.woff') format('woff'),
+       url('./Source-Code-Pro-200/Source-Code-Pro-200.ttf') format('truetype'),
+       url('./Source-Code-Pro-200/Source-Code-Pro-200.svg#SourceCodePro') format('svg');
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-weight: 300;
+  font-style: normal;
+  src: url('./Source-Code-Pro-300/Source-Code-Pro-300.eot');
+  src: url('./Source-Code-Pro-300/Source-Code-Pro-300.eot?#iefix') format('embedded-opentype'),
+       local('Source Code Pro Light'),
+       local('Source-Code-Pro-300'),
+       url('./Source-Code-Pro-300/Source-Code-Pro-300.woff2') format('woff2'),
+       url('./Source-Code-Pro-300/Source-Code-Pro-300.woff') format('woff'),
+       url('./Source-Code-Pro-300/Source-Code-Pro-300.ttf') format('truetype'),
+       url('./Source-Code-Pro-300/Source-Code-Pro-300.svg#SourceCodePro') format('svg');
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-weight: 400;
+  font-style: normal;
+  src: url('./Source-Code-Pro-regular/Source-Code-Pro-regular.eot');
+  src: url('./Source-Code-Pro-regular/Source-Code-Pro-regular.eot?#iefix') format('embedded-opentype'),
+       local('Source Code Pro'),
+       local('Source-Code-Pro-regular'),
+       url('./Source-Code-Pro-regular/Source-Code-Pro-regular.woff2') format('woff2'),
+       url('./Source-Code-Pro-regular/Source-Code-Pro-regular.woff') format('woff'),
+       url('./Source-Code-Pro-regular/Source-Code-Pro-regular.ttf') format('truetype'),
+       url('./Source-Code-Pro-regular/Source-Code-Pro-regular.svg#SourceCodePro') format('svg');
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-weight: 500;
+  font-style: normal;
+  src: url('./Source-Code-Pro-500/Source-Code-Pro-500.eot');
+  src: url('./Source-Code-Pro-500/Source-Code-Pro-500.eot?#iefix') format('embedded-opentype'),
+       local('Source Code Pro Medium'),
+       local('Source-Code-Pro-500'),
+       url('./Source-Code-Pro-500/Source-Code-Pro-500.woff2') format('woff2'),
+       url('./Source-Code-Pro-500/Source-Code-Pro-500.woff') format('woff'),
+       url('./Source-Code-Pro-500/Source-Code-Pro-500.ttf') format('truetype'),
+       url('./Source-Code-Pro-500/Source-Code-Pro-500.svg#SourceCodePro') format('svg');
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-weight: 600;
+  font-style: normal;
+  src: url('./Source-Code-Pro-600/Source-Code-Pro-600.eot');
+  src: url('./Source-Code-Pro-600/Source-Code-Pro-600.eot?#iefix') format('embedded-opentype'),
+       local('Source Code Pro Semibold'),
+       local('Source-Code-Pro-600'),
+       url('./Source-Code-Pro-600/Source-Code-Pro-600.woff2') format('woff2'),
+       url('./Source-Code-Pro-600/Source-Code-Pro-600.woff') format('woff'),
+       url('./Source-Code-Pro-600/Source-Code-Pro-600.ttf') format('truetype'),
+       url('./Source-Code-Pro-600/Source-Code-Pro-600.svg#SourceCodePro') format('svg');
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-weight: 700;
+  font-style: normal;
+  src: url('./Source-Code-Pro-700/Source-Code-Pro-700.eot');
+  src: url('./Source-Code-Pro-700/Source-Code-Pro-700.eot?#iefix') format('embedded-opentype'),
+       local('Source Code Pro Bold'),
+       local('Source-Code-Pro-700'),
+       url('./Source-Code-Pro-700/Source-Code-Pro-700.woff2') format('woff2'),
+       url('./Source-Code-Pro-700/Source-Code-Pro-700.woff') format('woff'),
+       url('./Source-Code-Pro-700/Source-Code-Pro-700.ttf') format('truetype'),
+       url('./Source-Code-Pro-700/Source-Code-Pro-700.svg#SourceCodePro') format('svg');
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-weight: 900;
+  font-style: normal;
+  src: url('./Source-Code-Pro-900/Source-Code-Pro-900.eot');
+  src: url('./Source-Code-Pro-900/Source-Code-Pro-900.eot?#iefix') format('embedded-opentype'),
+       local('Source Code Pro Black'),
+       local('Source-Code-Pro-900'),
+       url('./Source-Code-Pro-900/Source-Code-Pro-900.woff2') format('woff2'),
+       url('./Source-Code-Pro-900/Source-Code-Pro-900.woff') format('woff'),
+       url('./Source-Code-Pro-900/Source-Code-Pro-900.ttf') format('truetype'),
+       url('./Source-Code-Pro-900/Source-Code-Pro-900.svg#SourceCodePro') format('svg');
+}

@@ -1,0 +1,19 @@
+{
+  "name": "12",
+  "description": "12",
+  "keywords": [
+    "lalala"
+  ],
+ "version": "0.0.1",
+  "license" : "GPL-3.0",
+  "main": "./web/index.html",
+  "window": {
+    "toolbar": true,
+    "width": 960,
+    "height": 800,
+    "resizable": false,
+    "frame": true
+  },
+  "dependencies" : {
+  }
+}

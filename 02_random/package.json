@@ -1,0 +1,16 @@
+{
+  "name": "02",
+  "description": "02",
+  "keywords": [
+    "lalala"
+  ],
+  "version": "0.0.1",
+  "author": "you!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/victordiaz/de_cocinicas_con_nodejs"
+  },
+  "main": "main.js",
+  "devDependencies": {
+  }
+}
